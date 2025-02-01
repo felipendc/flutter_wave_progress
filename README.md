@@ -12,7 +12,10 @@
 
 ````dart
 dependencies:
-  wave_progress_widget: ^0.0.1
+    git:
+      url: https://github.com/felipendc/vicyos_music_wave_progress_flutter.git
+      ref: master
+
   ````
   
  2. Add this import to your dart file:
